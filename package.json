@@ -1,0 +1,25 @@
+{
+  "name": "name-it",
+  "version": "1.0.0",
+  "description": "you name it bro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayuahmatyani/name-it.git"
+  },
+  "keywords": [
+    "name"
+  ],
+  "author": "bayz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayuahmatyani/name-it/issues"
+  },
+  "homepage": "https://github.com/bayuahmatyani/name-it#readme",
+  "dependencies": {
+    "nama-orang-orang": "^1.1.0"
+  }
+}
